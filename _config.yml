@@ -1,7 +1,7 @@
 #------------------------------------------------------------------------------
 # General
 #------------------------------------------------------------------------------
-name: "Jared Taylor"
+# name: "Jared Taylor"
 description: "Everything's a Project"
 language: "en"
 
@@ -44,9 +44,9 @@ rss-show-full: false
 #------------------------------------------------------------------------------
 source: .
 destination: ./_site
-plugins: 
-    - jekyll-paginate
-    - jekyll-redirect-from
+# plugins: 
+#     - jekyll-paginate
+#     - jekyll-redirect-from
 
 sass:
     style: :compressed
