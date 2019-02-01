@@ -1,0 +1,8 @@
+- title: "Home"
+  url: /.
+- title: "Carpentry"
+  url: /carpentry
+- title: "Science"
+  url: /science
+- title: "About"
+  url: /about
