@@ -7,3 +7,6 @@ categories: [Structural Analysis]
 
 I've always been interested in structural analysis. When I found out that FreeCAD has an FEM solver integrated into its CAD functionality, I decided I had to find out how to use it.   
 
+Scripting FreeCAD
+
+
