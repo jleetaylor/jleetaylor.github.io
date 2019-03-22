@@ -4,6 +4,4 @@ title: About
 permalink: /about/
 ---
 
-# Dayton Labs
-
-# Resume
+# Countryside Bible Chapel
