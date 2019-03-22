@@ -2,7 +2,7 @@
 layout: post
 title:  "Prayer Requests"
 date:   2019-03-05 12:25:43 -0600
-categories: [CBC]
+categories: [Prayer Requests]
 ---
 
 # Philippians 4:6
